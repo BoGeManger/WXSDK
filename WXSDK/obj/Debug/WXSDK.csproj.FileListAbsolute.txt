@@ -1,0 +1,4 @@
+F:\工作区\WXSDK\bin\Debug\WXSDK.dll
+F:\工作区\WXSDK\bin\Debug\WXSDK.pdb
+F:\工作区\WXSDK\obj\Debug\WXSDK.dll
+F:\工作区\WXSDK\obj\Debug\WXSDK.pdb

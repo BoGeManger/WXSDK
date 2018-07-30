@@ -1,0 +1,17 @@
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WebApiHelper\bin\Debug\IMyBest_WXSDK.WXSDK.dll
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WebApiHelper\bin\Debug\IMyBest_WXSDK.WXSDK.pdb
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WebApiHelper\obj\Debug\IMyBest_WXSDK.WXSDK.dll
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WebApiHelper\obj\Debug\IMyBest_WXSDK.WXSDK.pdb
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WXSDK\bin\Debug\IMyBest_WXSDK.WXSDK.dll
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WXSDK\bin\Debug\IMyBest_WXSDK.WXSDK.pdb
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WXSDK\obj\Debug\IMyBest_WXSDK.WXSDK.dll
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WXSDK\obj\Debug\IMyBest_WXSDK.WXSDK.pdb
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WXSDK\bin\Debug\Newtonsoft.Json.dll
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WXSDK\bin\Debug\Newtonsoft.Json.xml
+F:\工作区\IMyBest_WXSDK\IMyBest_WXSDK.WXSDK\obj\Debug\IMyBest_WXSDK.WXSDK.csprojResolveAssemblyReference.cache
+F:\工作区\weixincs\IMyBest_WXSDK.WXSDK\bin\Debug\IMyBest_WXSDK.WXSDK.dll
+F:\工作区\weixincs\IMyBest_WXSDK.WXSDK\bin\Debug\IMyBest_WXSDK.WXSDK.pdb
+F:\工作区\weixincs\IMyBest_WXSDK.WXSDK\bin\Debug\Newtonsoft.Json.dll
+F:\工作区\weixincs\IMyBest_WXSDK.WXSDK\bin\Debug\Newtonsoft.Json.xml
+F:\工作区\weixincs\IMyBest_WXSDK.WXSDK\obj\Debug\IMyBest_WXSDK.WXSDK.dll
+F:\工作区\weixincs\IMyBest_WXSDK.WXSDK\obj\Debug\IMyBest_WXSDK.WXSDK.pdb
